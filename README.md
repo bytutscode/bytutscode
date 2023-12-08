@@ -18,7 +18,7 @@ Apaixonado por tecnologia, descobri na programação a minha verdadeira paixão.
 
 <br>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bytutscode&repo=sls-services&bg_color=000&border_color=0084ff&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/bytutscode/NODE-ANGULAR-BLOGS)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bytutscode&repo=NODE-ANGULAR-BLOGS&bg_color=000&border_color=0084ff&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/bytutscode/NODE-ANGULAR-BLOGS)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bytutscode&repo=sls-services&bg_color=000&border_color=0084ff&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/bytutscode/sls-services)
 
