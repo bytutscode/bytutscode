@@ -1,5 +1,5 @@
 # 💫 About Me:
-Apaixonado por tecnologia, descobri na programação a minha verdadeira paixão. Sou um Desenvolvedor de Software FullStack e tenho focado em aprimorar minhas habilidades por meio de estudos e projetos práticos. Estou em busca de novos desafios que me permitam aplicar meu conhecimento, contribuir de forma significativa e continuar expandindo minha base de conhecimento.
+Apaixonado por tecnologia, descobri na programação a minha verdadeira paixão. Sou um Desenvolvedor de Software e web FullStack e tenho focado em aprimorar minhas habilidades por meio de estudos e projetos práticos. Estou em busca de novos desafios que me permitam aplicar meu conhecimento, contribuir de forma significativa e continuar expandindo minha base de conhecimento.
 
 
 ## 🌐 Socials:
@@ -17,6 +17,8 @@ Apaixonado por tecnologia, descobri na programação a minha verdadeira paixão.
 ## Projetos pessoais
 
 <br>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bytutscode&repo=sls-services&bg_color=000&border_color=0084ff&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/bytutscode/NODE-ANGULAR-BLOGS)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bytutscode&repo=sls-services&bg_color=000&border_color=0084ff&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/bytutscode/sls-services)
 
